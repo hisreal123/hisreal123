@@ -1,6 +1,6 @@
 ![Header](./header.png)
 
-<img align="right" width="400" height="200" alt="coding_image" src="https://unsplash.com/photos/lines-of-html-codes-4hbJ-eymZ1o"/>
+<img align="right" width="400" height="200" alt="coding_image" src="./sideimage.gif"/>
 
 <h1 align="center">Hey 👋, it's George</h1>
 <h3 align="center">A Curious Frontend Developer 💻 from Lagos, you get !!!</h3>
