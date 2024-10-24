@@ -3,16 +3,15 @@
 <img align="right" width="400" height="400" alt="coding_image" src="./sideimage.gif" />
 
 <h1 align="center">Hey 👋, it's George</h1>
-<h3 align="center">A Curious Web Developer 💻 from Lagos, you get !!!</h3>
+<h3 align="center">A Curious Software Engineer  💻 from Lagos, you get !!!</h3>
 
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/gehorgehisreal" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/gehorgehisreal?logo=twitter&style=for-the-badge" alt="https://twitter.com/gehorgehisreal" /></a> </p>
 
-- 🔭 I’m currently working on 🤔
 
-- 👯 I’m looking to collaborate on **Frontend, FullStack**
+- 👯 I’m looking to collaborate on **Sofware Related projects on : FullStack : Database : Backend** 
 
-- 💬 Ask me about **React, NodeJs, ExprssJs, Typescript**
+- 💬 Ask me about **Python, javascript, Typescript**
 
 - 📫 How to reach me **omosgoerge@gmail.com**
 
