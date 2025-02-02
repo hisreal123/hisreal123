@@ -3,15 +3,15 @@
 <img align="right" width="400" height="400" alt="coding_image" src="./sideimage.gif" />
 
 <h1 align="center">Hey 👋, it's George</h1>
-<h3 align="center">A Curious Software Engineer  💻 from Lagos, you get !!!</h3>
+<h3 align="center">Software Developer  💻 from Lagos, you get !!!</h3>
 
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/gehorgehisreal" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/gehorgehisreal?logo=twitter&style=for-the-badge" alt="https://twitter.com/gehorgehisreal" /></a> </p>
 
 
-- 👯 I’m looking to collaborate on **Sofware Related projects on : FullStack : Database : Backend** 
+- 👯 I’m looking to collaborate on **Sofware Related projects on : Frontned : Database : Backend : Flutter** 
 
-- 💬 Ask me about **Python, javascript, Typescript**
+- 💬 Ask me about **javascript, Typescript**
 
 - 📫 How to reach me **omosgoerge@gmail.com**
 
